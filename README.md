@@ -7,3 +7,6 @@ Recuerden que deben de reconstruir los módulos de node con el comando
 ```
 npm install
 ```
+
+# Deploy 
+La aplicacion esta desplegada en heroku `https://lucas-sockets.herokuapp.com/`
